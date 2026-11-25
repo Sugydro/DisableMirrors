@@ -1,6 +1,7 @@
 {
   "enabled": true,
   "maxSlots": 127,
+  "metricsURL": "https://abacus.jasoncameron.dev/hit/dayzlauncher/visits",
   "blockedModIds": [
     "3819940134",
     "2938403570",
